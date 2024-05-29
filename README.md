@@ -22,3 +22,4 @@ Drill-Down: Enables deeper exploration of data within visualizations.
 Loan Applications Up! Applications are up a healthy 6.9% compared to the last period. More people are looking for loans!
 High Approval Rate, But... It seems like the approval rate is high (around 92%), but we need to see if the loans are actually being repaid.
 
+In order to view the file powerbi desktop is required as the file uploaded is in pbix format.
